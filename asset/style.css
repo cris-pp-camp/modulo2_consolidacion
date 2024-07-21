@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+.portfolio-item img {
+    width: 100%;
+    height: auto;
+}
